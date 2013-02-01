@@ -8,6 +8,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
   // The real change
   // New Feature
+  // Only in Master
 	return 0;
 }
 
